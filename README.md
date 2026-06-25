@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/0001-two-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/anujnegi1/leetbyanuj/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/anujnegi1/leetbyanuj/tree/master/0018-4sum) |
 | [0658-find-k-closest-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujnegi1/leetbyanuj/tree/master/0719-find-k-th-smallest-pair-distance) |
