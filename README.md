@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/anujnegi1/leetbyanuj/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0090-subsets-ii) |
 | [0658-find-k-closest-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujnegi1/leetbyanuj/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0821-shortest-distance-to-a-character](https://github.com/anujnegi1/leetbyanuj/tree/master/0821-shortest-distance-to-a-character) |
@@ -104,4 +105,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
