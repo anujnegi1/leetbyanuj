@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/anujnegi1/leetbyanuj/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/anujnegi1/leetbyanuj/tree/master/0031-next-permutation) |
 | [0541-reverse-string-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujnegi1/leetbyanuj/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/anujnegi1/leetbyanuj/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/anujnegi1/leetbyanuj/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0090-subsets-ii) |
 | [0658-find-k-closest-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0658-find-k-closest-elements) |
