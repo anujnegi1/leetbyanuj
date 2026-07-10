@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/anujnegi1/leetbyanuj/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0090-subsets-ii) |
+| [0485-max-consecutive-ones](https://github.com/anujnegi1/leetbyanuj/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/anujnegi1/leetbyanuj/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujnegi1/leetbyanuj/tree/master/0719-find-k-th-smallest-pair-distance) |
