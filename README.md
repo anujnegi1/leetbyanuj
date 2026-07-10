@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/anujnegi1/leetbyanuj/tree/master/0821-shortest-distance-to-a-character) |
 | [1189-maximum-number-of-balloons](https://github.com/anujnegi1/leetbyanuj/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujnegi1/leetbyanuj/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anujnegi1/leetbyanuj/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/anujnegi1/leetbyanuj/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujnegi1/leetbyanuj/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/anujnegi1/leetbyanuj/tree/master/2367-number-of-arithmetic-triplets) |
 ## Binary Search
 |  |
