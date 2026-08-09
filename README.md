@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujnegi1/leetbyanuj/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/anujnegi1/leetbyanuj/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/anujnegi1/leetbyanuj/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anujnegi1/leetbyanuj/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anujnegi1/leetbyanuj/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/anujnegi1/leetbyanuj/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anujnegi1/leetbyanuj/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0090-subsets-ii) |
 | [0164-maximum-gap](https://github.com/anujnegi1/leetbyanuj/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/anujnegi1/leetbyanuj/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/anujnegi1/leetbyanuj/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anujnegi1/leetbyanuj/tree/master/0645-set-mismatch) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/anujnegi1/leetbyanuj/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/anujnegi1/leetbyanuj/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/anujnegi1/leetbyanuj/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujnegi1/leetbyanuj/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0658-find-k-closest-elements) |
 ## Tree
 |  |
@@ -189,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/anujnegi1/leetbyanuj/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -197,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anujnegi1/leetbyanuj/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
