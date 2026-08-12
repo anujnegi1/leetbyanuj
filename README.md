@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anujnegi1/leetbyanuj/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/anujnegi1/leetbyanuj/tree/master/2367-number-of-arithmetic-triplets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anujnegi1/leetbyanuj/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujnegi1/leetbyanuj/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/anujnegi1/leetbyanuj/tree/master/2367-number-of-arithmetic-triplets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anujnegi1/leetbyanuj/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujnegi1/leetbyanuj/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anujnegi1/leetbyanuj/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
 | ------- |
