@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/anujnegi1/leetbyanuj/tree/master/0060-permutation-sequence) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anujnegi1/leetbyanuj/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2029-stone-game-ix](https://github.com/anujnegi1/leetbyanuj/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anujnegi1/leetbyanuj/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
