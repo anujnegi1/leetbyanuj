@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/anujnegi1/leetbyanuj/tree/master/0821-shortest-distance-to-a-character) |
 | [1189-maximum-number-of-balloons](https://github.com/anujnegi1/leetbyanuj/tree/master/1189-maximum-number-of-balloons) |
+| [1927-sum-game](https://github.com/anujnegi1/leetbyanuj/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujnegi1/leetbyanuj/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anujnegi1/leetbyanuj/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/anujnegi1/leetbyanuj/tree/master/0060-permutation-sequence) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anujnegi1/leetbyanuj/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1927-sum-game](https://github.com/anujnegi1/leetbyanuj/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anujnegi1/leetbyanuj/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anujnegi1/leetbyanuj/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/anujnegi1/leetbyanuj/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anujnegi1/leetbyanuj/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/anujnegi1/leetbyanuj/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anujnegi1/leetbyanuj/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
