@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/anujnegi1/leetbyanuj/tree/master/2367-number-of-arithmetic-triplets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anujnegi1/leetbyanuj/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3903-smallest-stable-index-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anujnegi1/leetbyanuj/tree/master/0560-subarray-sum-equals-k) |
+| [3903-smallest-stable-index-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
