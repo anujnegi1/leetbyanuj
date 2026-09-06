@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujnegi1/leetbyanuj/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/anujnegi1/leetbyanuj/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/anujnegi1/leetbyanuj/tree/master/0151-reverse-words-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0541-reverse-string-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/anujnegi1/leetbyanuj/tree/master/0010-regular-expression-matching) |
 | [0060-permutation-sequence](https://github.com/anujnegi1/leetbyanuj/tree/master/0060-permutation-sequence) |
 ## Linked List
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/anujnegi1/leetbyanuj/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/0115-distinct-subsequences) |
 | [1987-number-of-unique-good-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/1987-number-of-unique-good-subsequences) |
 <!---LeetCode Topics End-->
