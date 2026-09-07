@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anujnegi1/leetbyanuj/tree/master/0151-reverse-words-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/anujnegi1/leetbyanuj/tree/master/0821-shortest-distance-to-a-character) |
+| [0940-distinct-subsequences-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/anujnegi1/leetbyanuj/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/anujnegi1/leetbyanuj/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujnegi1/leetbyanuj/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -259,5 +260,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anujnegi1/leetbyanuj/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0940-distinct-subsequences-ii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/1987-number-of-unique-good-subsequences) |
 <!---LeetCode Topics End-->
