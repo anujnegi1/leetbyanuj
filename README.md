@@ -262,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0940-distinct-subsequences-ii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/1987-number-of-unique-good-subsequences) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/anujnegi1/leetbyanuj/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
