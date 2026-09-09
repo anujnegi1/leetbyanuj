@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/anujnegi1/leetbyanuj/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1927-sum-game](https://github.com/anujnegi1/leetbyanuj/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anujnegi1/leetbyanuj/tree/master/2029-stone-game-ix) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anujnegi1/leetbyanuj/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/anujnegi1/leetbyanuj/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/anujnegi1/leetbyanuj/tree/master/0197-rising-temperature) |
+## Simulation
+|  |
+| ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
