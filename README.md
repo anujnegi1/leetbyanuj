@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujnegi1/leetbyanuj/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/anujnegi1/leetbyanuj/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0142-linked-list-cycle-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/anujnegi1/leetbyanuj/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anujnegi1/leetbyanuj/tree/master/0645-set-mismatch) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/anujnegi1/leetbyanuj/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/anujnegi1/leetbyanuj/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0208-implement-trie-prefix-tree) |
 | [0541-reverse-string-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/anujnegi1/leetbyanuj/tree/master/0821-shortest-distance-to-a-character) |
 | [0940-distinct-subsequences-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0940-distinct-subsequences-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0208-implement-trie-prefix-tree) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -301,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
