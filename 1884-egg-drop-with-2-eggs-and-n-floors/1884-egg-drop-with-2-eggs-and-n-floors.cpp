@@ -1,13 +1,12 @@
 class Solution {
 public:
     int twoEggDrop(int n) {
-        for(int i=1;i<=n;i++)
+        int i=1;
+        while(n>0)
         {
-            if((i*i)+i>=n*2)
-            {
-                return i;
-            }
+            n-=i;
+            i++;
         }
-        return -1;
+        return i-1;
     }
 };
