@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/anujnegi1/leetbyanuj/tree/master/0060-permutation-sequence) |
+| [0887-super-egg-drop](https://github.com/anujnegi1/leetbyanuj/tree/master/0887-super-egg-drop) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anujnegi1/leetbyanuj/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1927-sum-game](https://github.com/anujnegi1/leetbyanuj/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anujnegi1/leetbyanuj/tree/master/2029-stone-game-ix) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujnegi1/leetbyanuj/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0887-super-egg-drop](https://github.com/anujnegi1/leetbyanuj/tree/master/0887-super-egg-drop) |
 ## Sorting
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anujnegi1/leetbyanuj/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/0115-distinct-subsequences) |
+| [0887-super-egg-drop](https://github.com/anujnegi1/leetbyanuj/tree/master/0887-super-egg-drop) |
 | [0940-distinct-subsequences-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0940-distinct-subsequences-ii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/1987-number-of-unique-good-subsequences) |
 ## Database
