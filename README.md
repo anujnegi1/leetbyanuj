@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/anujnegi1/leetbyanuj/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anujnegi1/leetbyanuj/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0541-reverse-string-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/anujnegi1/leetbyanuj/tree/master/0821-shortest-distance-to-a-character) |
 | [0940-distinct-subsequences-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0940-distinct-subsequences-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0101-symmetric-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anujnegi1/leetbyanuj/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0543-diameter-of-binary-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anujnegi1/leetbyanuj/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anujnegi1/leetbyanuj/tree/master/0211-design-add-and-search-words-data-structure) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -309,4 +312,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anujnegi1/leetbyanuj/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
