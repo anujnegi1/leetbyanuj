@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujnegi1/leetbyanuj/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/anujnegi1/leetbyanuj/tree/master/0010-regular-expression-matching) |
+| [0079-word-search](https://github.com/anujnegi1/leetbyanuj/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/anujnegi1/leetbyanuj/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0208-implement-trie-prefix-tree) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anujnegi1/leetbyanuj/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/anujnegi1/leetbyanuj/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/anujnegi1/leetbyanuj/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0090-subsets-ii) |
 | [0164-maximum-gap](https://github.com/anujnegi1/leetbyanuj/tree/master/0164-maximum-gap) |
 | [0212-word-search-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0212-word-search-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anujnegi1/leetbyanuj/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0101-symmetric-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anujnegi1/leetbyanuj/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0543-diameter-of-binary-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0543-diameter-of-binary-tree) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anujnegi1/leetbyanuj/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/anujnegi1/leetbyanuj/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0212-word-search-ii) |
 | [0994-rotting-oranges](https://github.com/anujnegi1/leetbyanuj/tree/master/0994-rotting-oranges) |
 ## Stack
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/anujnegi1/leetbyanuj/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
