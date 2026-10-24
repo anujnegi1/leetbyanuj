@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anujnegi1/leetbyanuj/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anujnegi1/leetbyanuj/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0212-word-search-ii) |
 | [0541-reverse-string-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/anujnegi1/leetbyanuj/tree/master/0821-shortest-distance-to-a-character) |
 | [0940-distinct-subsequences-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0940-distinct-subsequences-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anujnegi1/leetbyanuj/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0090-subsets-ii) |
 | [0164-maximum-gap](https://github.com/anujnegi1/leetbyanuj/tree/master/0164-maximum-gap) |
+| [0212-word-search-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0212-word-search-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/anujnegi1/leetbyanuj/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/anujnegi1/leetbyanuj/tree/master/0560-subarray-sum-equals-k) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anujnegi1/leetbyanuj/tree/master/0073-set-matrix-zeroes) |
+| [0212-word-search-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0212-word-search-ii) |
 | [0994-rotting-oranges](https://github.com/anujnegi1/leetbyanuj/tree/master/0994-rotting-oranges) |
 ## Stack
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anujnegi1/leetbyanuj/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0212-word-search-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
