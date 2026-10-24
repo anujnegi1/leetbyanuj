@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujnegi1/leetbyanuj/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1987-number-of-unique-good-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/1987-number-of-unique-good-subsequences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/anujnegi1/leetbyanuj/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2409-count-days-spent-together](https://github.com/anujnegi1/leetbyanuj/tree/master/2409-count-days-spent-together) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anujnegi1/leetbyanuj/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/anujnegi1/leetbyanuj/tree/master/3498-reverse-degree-of-a-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/anujnegi1/leetbyanuj/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anujnegi1/leetbyanuj/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2409-count-days-spent-together](https://github.com/anujnegi1/leetbyanuj/tree/master/2409-count-days-spent-together) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anujnegi1/leetbyanuj/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
