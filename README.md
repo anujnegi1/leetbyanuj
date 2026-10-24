@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anujnegi1/leetbyanuj/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/anujnegi1/leetbyanuj/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/anujnegi1/leetbyanuj/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujnegi1/leetbyanuj/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/anujnegi1/leetbyanuj/tree/master/2029-stone-game-ix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/anujnegi1/leetbyanuj/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/anujnegi1/leetbyanuj/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3498-reverse-degree-of-a-string](https://github.com/anujnegi1/leetbyanuj/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
