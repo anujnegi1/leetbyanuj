@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujnegi1/leetbyanuj/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/anujnegi1/leetbyanuj/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/anujnegi1/leetbyanuj/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0347-top-k-frequent-elements) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/anujnegi1/leetbyanuj/tree/master/0010-regular-expression-matching) |
 | [0079-word-search](https://github.com/anujnegi1/leetbyanuj/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/anujnegi1/leetbyanuj/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/anujnegi1/leetbyanuj/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/anujnegi1/leetbyanuj/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anujnegi1/leetbyanuj/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anujnegi1/leetbyanuj/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/anujnegi1/leetbyanuj/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/anujnegi1/leetbyanuj/tree/master/0130-surrounded-regions) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anujnegi1/leetbyanuj/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -345,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anujnegi1/leetbyanuj/tree/master/0295-find-median-from-data-stream) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/anujnegi1/leetbyanuj/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
