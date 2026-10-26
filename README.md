@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/anujnegi1/leetbyanuj/tree/master/0060-permutation-sequence) |
 | [0887-super-egg-drop](https://github.com/anujnegi1/leetbyanuj/tree/master/0887-super-egg-drop) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anujnegi1/leetbyanuj/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1492-the-kth-factor-of-n](https://github.com/anujnegi1/leetbyanuj/tree/master/1492-the-kth-factor-of-n) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/anujnegi1/leetbyanuj/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1927-sum-game](https://github.com/anujnegi1/leetbyanuj/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anujnegi1/leetbyanuj/tree/master/2029-stone-game-ix) |
@@ -360,4 +361,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/anujnegi1/leetbyanuj/tree/master/0127-word-ladder) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/anujnegi1/leetbyanuj/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/anujnegi1/leetbyanuj/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
