@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anujnegi1/leetbyanuj/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anujnegi1/leetbyanuj/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/anujnegi1/leetbyanuj/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/anujnegi1/leetbyanuj/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anujnegi1/leetbyanuj/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anujnegi1/leetbyanuj/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/anujnegi1/leetbyanuj/tree/master/2685-count-the-number-of-complete-components) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anujnegi1/leetbyanuj/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bucket Sort
 |  |
 | ------- |
