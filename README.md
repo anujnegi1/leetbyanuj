@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/anujnegi1/leetbyanuj/tree/master/0232-implement-queue-using-stacks) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anujnegi1/leetbyanuj/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anujnegi1/leetbyanuj/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0232-implement-queue-using-stacks](https://github.com/anujnegi1/leetbyanuj/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/anujnegi1/leetbyanuj/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -372,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/anujnegi1/leetbyanuj/tree/master/1492-the-kth-factor-of-n) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/anujnegi1/leetbyanuj/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
