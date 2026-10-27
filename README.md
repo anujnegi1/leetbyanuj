@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/anujnegi1/leetbyanuj/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/anujnegi1/leetbyanuj/tree/master/0326-power-of-three) |
 | [0887-super-egg-drop](https://github.com/anujnegi1/leetbyanuj/tree/master/0887-super-egg-drop) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anujnegi1/leetbyanuj/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/anujnegi1/leetbyanuj/tree/master/1492-the-kth-factor-of-n) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anujnegi1/leetbyanuj/tree/master/0010-regular-expression-matching) |
 | [0060-permutation-sequence](https://github.com/anujnegi1/leetbyanuj/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/anujnegi1/leetbyanuj/tree/master/0326-power-of-three) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anujnegi1/leetbyanuj/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
