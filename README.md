@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/anujnegi1/leetbyanuj/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/anujnegi1/leetbyanuj/tree/master/0326-power-of-three) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0887-super-egg-drop](https://github.com/anujnegi1/leetbyanuj/tree/master/0887-super-egg-drop) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anujnegi1/leetbyanuj/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/anujnegi1/leetbyanuj/tree/master/1492-the-kth-factor-of-n) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/0212-word-search-ii) |
 | [0327-count-of-range-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/anujnegi1/leetbyanuj/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/anujnegi1/leetbyanuj/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anujnegi1/leetbyanuj/tree/master/0645-set-mismatch) |
