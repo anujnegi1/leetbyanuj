@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/anujnegi1/leetbyanuj/tree/master/2029-stone-game-ix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/anujnegi1/leetbyanuj/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/anujnegi1/leetbyanuj/tree/master/2367-number-of-arithmetic-triplets) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/anujnegi1/leetbyanuj/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anujnegi1/leetbyanuj/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/anujnegi1/leetbyanuj/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujnegi1/leetbyanuj/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0887-super-egg-drop](https://github.com/anujnegi1/leetbyanuj/tree/master/0887-super-egg-drop) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/anujnegi1/leetbyanuj/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujnegi1/leetbyanuj/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anujnegi1/leetbyanuj/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anujnegi1/leetbyanuj/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/anujnegi1/leetbyanuj/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anujnegi1/leetbyanuj/tree/master/0560-subarray-sum-equals-k) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/anujnegi1/leetbyanuj/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3903-smallest-stable-index-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
