@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2409-count-days-spent-together](https://github.com/anujnegi1/leetbyanuj/tree/master/2409-count-days-spent-together) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anujnegi1/leetbyanuj/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anujnegi1/leetbyanuj/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/anujnegi1/leetbyanuj/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anujnegi1/leetbyanuj/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anujnegi1/leetbyanuj/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anujnegi1/leetbyanuj/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anujnegi1/leetbyanuj/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anujnegi1/leetbyanuj/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3903-smallest-stable-index-i) |
