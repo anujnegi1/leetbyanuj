@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/anujnegi1/leetbyanuj/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2405-optimal-partition-of-string](https://github.com/anujnegi1/leetbyanuj/tree/master/2405-optimal-partition-of-string) |
 | [2409-count-days-spent-together](https://github.com/anujnegi1/leetbyanuj/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anujnegi1/leetbyanuj/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/anujnegi1/leetbyanuj/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anujnegi1/leetbyanuj/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/anujnegi1/leetbyanuj/tree/master/3498-reverse-degree-of-a-string) |
